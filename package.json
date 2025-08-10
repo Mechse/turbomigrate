@@ -1,6 +1,9 @@
 {
   "name": "turbomigrate",
-  "version": "0.1.1",
+  "author": "Max L <max.leo2000@gmail.com>",
+  "version": "0.1.2",
+  "license": "MIT",
+  "keywords": ["drizzle", "d1", "cloudflare", "migration"],
   "type": "module",
   "bin": {
     "turbomigrate": "dist/index.js"
