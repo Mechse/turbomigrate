@@ -22,8 +22,8 @@ export const program = new Command();
 program
 	.name("turbomigrate")
 	.description("Smarter drizzle migration for cloudflare d1 databases")
-	.option("-l, --local", "run migration locally ")
-	.option("-r, --remote", "run migration remote ")
+	.option("-l, --local", "run migration locally")
+	.option("-r, --remote", "run migration remote")
 	.option("-d, --dir <string>");
 
 program.parse();
@@ -309,5 +309,3 @@ try {
 }
 
 spinner.success(`Successfully migrated!`);
-console.log("SELECTED ENV: ", selectedEnvironment);
-console.log("SELECTED DB: ", selectedDatabase);
