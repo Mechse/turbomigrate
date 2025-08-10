@@ -2,7 +2,8 @@
 
 A smart CLI tool that streamlines database migrations for **Cloudflare D1** databases using **Drizzle ORM**. Turbomigrate automatically discovers your configuration files, lets you select environments and databases interactively, and handles both local and remote migrations with ease.
 
-https://github.com/user-attachments/assets/ec6df9b2-b506-4690-92f9-3f1d3e655788
+https://github.com/user-attachments/assets/4aa70351-ca99-478a-9ebc-f7cc2cf33d4d
+
 
 ## 🚀 Features
 
