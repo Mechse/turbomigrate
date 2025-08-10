@@ -26,6 +26,16 @@ pnpx turboenv
 npx turboenv
 ```
 
+#### My worflow
+I often find myself working in monorepos where I would add something like this to the roote `package.json`:
+```json
+{
+    "scripts": {
+	    "db:push": "bunx turbomigrate -d ./server"
+    }
+}
+```
+
 ## Options
 - `-l`, `--local`, run migration locally
 - `-r`, `--remote`, run migration remote
