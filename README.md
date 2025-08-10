@@ -15,15 +15,15 @@ A smart CLI tool that streamlines database migrations for **Cloudflare D1** data
 
 ### With Bun:
 ```bash
-bunx turboenv
+bunx turbomigrate
 ```
 ### With Pnpm:
 ```bash
-pnpx turboenv
+pnpx turbomigrate
 ```
 ### With Npm:
 ```bash
-npx turboenv
+npx turbomigrate
 ```
 
 #### My worflow
