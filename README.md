@@ -4,8 +4,6 @@ A smart CLI tool that streamlines database migrations for **Cloudflare D1** data
 
 https://github.com/user-attachments/assets/ec6df9b2-b506-4690-92f9-3f1d3e655788
 
-controls></video>
-
 ## 🚀 Features
 
 - **Auto-discovery**: Automatically finds your `wrangler.toml`/`wrangler.json` and `drizzle.config.ts`/`drizzle.config.js` files
